@@ -30,7 +30,7 @@ here is the path to my screenshot.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Githun repository](https://github.com/Iamojochenemi/blog-preview-card.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
