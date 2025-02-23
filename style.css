@@ -1,0 +1,68 @@
+body{
+font-family: Figtree-Medium, sans-serif;
+background-color: hsl(47, 88%, 63%); 
+line-height: 1.5em;
+font-size: 16px;
+max-width: 1440px;
+text-overflow: hidden;
+
+}
+
+.card{
+    width: 350px;
+    background-color:hsl(0, 0%, 100%) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 6px 4px 4px 6px;
+    height: 100%;
+    transform: scale(0.8);
+}
+
+h3{
+    background-color: hsl(47, 88%, 63%);
+    display: inline-block;
+    padding: 2px 9px;
+    margin: 10px 0px;
+}
+
+.publish{
+    font-weight: 600;
+}
+
+#inlink{
+    text-decoration: none;
+    color: hsl(0, 0%, 7%);
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+
+}
+#inlink:hover{
+    color: hsl(42, 88%, 62%);
+}
+
+.normal{
+    color: hsl(0, 0%, 42%);
+}
+
+.greg{
+    display: flex;
+}
+.greg img{
+    margin-right: 7px;
+}
+.name{
+    font-weight: bold;
+}
+
+
+.attribution{
+    font-size: 11px; text-align: center; 
+    color: hsl(228, 45%, 44%);
+    margin-top: 5px;
+  
+}
